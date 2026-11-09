@@ -8,6 +8,8 @@ environments, including file descriptor manipulation, process creation,
 inter-process communication (IPC via pipes), advanced signal handling, and
 memory mapping (`mmap`).
 
+![minishell-picture](docs/exemple.webp)
+
 ## Repository Structure
 
 The project includes several C source files and utilities illustrating core OS

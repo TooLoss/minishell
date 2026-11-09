@@ -1,0 +1,21 @@
+total 92
+-rw-r--r--. 1 elhaddadib 70000     0  9 nov.  16:37 contenue.txt
+-rw-r--r--. 1 elhaddadib 70000  1182  9 nov.  16:22 copier.c
+drwxr-xr-x. 1 elhaddadib 70000    42  9 nov.  16:36 docs
+-rw-r--r--. 1 elhaddadib 70000  2652  9 nov.  16:22 filtrage-fcntl.c
+-rw-r--r--. 1 elhaddadib 70000  2788  9 nov.  16:22 filtrage-select.c
+-rw-r--r--. 1 elhaddadib 70000  2413  9 nov.  16:22 filtrage-squelette.c
+-rw-r--r--. 1 elhaddadib 70000    30  9 nov.  16:22 filtrage.txt
+drwxr-xr-x. 1 elhaddadib 70000    18  9 nov.  16:22 include
+drwxr-xr-x. 1 elhaddadib 70000    24  9 nov.  16:22 lib
+-rw-r--r--. 1 elhaddadib 70000  1410  9 nov.  16:22 Makefile
+-rwxr-xr-x. 1 elhaddadib 70000 23680  9 nov.  16:33 minishell
+-rw-r--r--. 1 elhaddadib 70000  6641  9 nov.  16:22 minishell.c
+-rw-r--r--. 1 elhaddadib 70000  7424  9 nov.  16:33 minishell.o
+-rw-r--r--. 1 elhaddadib 70000  1519  9 nov.  16:34 README.md
+-rw-r--r--. 1 elhaddadib 70000  2917  9 nov.  16:22 tempo-maker.c
+-rw-r--r--. 1 elhaddadib 70000   602  9 nov.  16:22 tube1.c
+-rw-r--r--. 1 elhaddadib 70000   658  9 nov.  16:22 tube2.c
+-rw-r--r--. 1 elhaddadib 70000   656  9 nov.  16:22 tube3.c
+-rw-r--r--. 1 elhaddadib 70000   658  9 nov.  16:22 tube4.c
+-rw-r--r--. 1 elhaddadib 70000   885  9 nov.  16:22 tube5.c
