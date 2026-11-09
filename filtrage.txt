@@ -1,0 +1,3 @@
+Test filtrage squelette
+ok
+ok
